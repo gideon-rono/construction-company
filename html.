@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Construction Company</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>🏗️ Build Your Dream Home</h1>
+        <nav>
+            <ul>
+                <li><a href="#houses">🏡 Houses</a></li>
+                <li><a href="#plans">📜 Plans</a></li>
+                <li><a href="#pricing">💰 Pricing</a></li>
+                <li><a href="#contact">📞 Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="houses">
+        <h2>🏡 Types of Houses</h2>
+        <div class="house">
+            <img src="modern.jpg" alt="Modern House">
+            <p>Modern House - Stylish, Smart, and Sustainable.</p>
+        </div>
+        <div class="house">
+            <img src="traditional.jpg" alt="Traditional House">
+            <p>Traditional House - Cozy, Classic, and Comfortable.</p>
+        </div>
+    </section>
+
+    <section id="plans">
+        <h2>📜 Construction Plans</h2>
+        <p>Choose a plan that suits your vision. We offer customizable designs!</p>
+    </section>
+
+    <section id="pricing">
+        <h2>💰 Pricing & Packages</h2>
+        <p>Transparent pricing based on materials, labor, and customization.</p>
+    </section>
+
+    <section id="contact">
+        <h2>📞 Get in Touch</h2>
+        <form>
+            <input type="text" placeholder="Your Name">
+            <input type="email" placeholder="Your Email">
+            <textarea placeholder="Your Message"></textarea>
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>🏗️ Copyright © 2025 Construction Company | Built with passion 💙</p>
+    </footer>
+
+</body>
+</html>
